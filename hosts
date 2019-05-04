@@ -1,5 +1,5 @@
 [elk]
-host-01
+13.92.138.223 ansible_user=wankhaa
 
 [elk-client]
-host-02
+13.92.138.223 ansible_user=wankhaa
